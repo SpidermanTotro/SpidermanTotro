@@ -1,20 +1,19 @@
 # Henric's GitHub projects
 
-A practical index of the maintained projects, experiments, and upstream-tracking repositories in this account.
+A practical index of maintained projects, local experiments, and upstream-tracking repositories in this account.
 
 ## Actively maintained projects
 
-- [AgentFoundry Instantly](https://github.com/SpidermanTotro/AgentFoundry-instantly) — AI development workspace and Electron desktop tooling; Node.js build and startup-helper CI enabled
-- [QuestMaster Pro](https://github.com/SpidermanTotro/azeroth-pilot-reloaded-Pro-) — WoW guide addon; Lua 5.1, Luacheck, and TOC integrity CI enabled
-- [AgentFoundry TrinityCore Studio](https://github.com/SpidermanTotro/AgentFoundry-TrinityCore-Studio) — cross-platform TrinityCore management studio
-- [Book Publish Forge](https://github.com/SpidermanTotro/book-publish-forge) — desktop writing and publishing tools
-- [Trinity Studio Architecture](https://github.com/SpidermanTotro/Trinity-Studio-Architecture) — architecture and planning for Trinity tooling
+- [AgentFoundry Instantly](https://github.com/SpidermanTotro/AgentFoundry-instantly) — local-first AI development workspace and Electron desktop tooling; build, tests, audits, and startup-helper CI enabled
+- [QuestMaster Pro](https://github.com/SpidermanTotro/azeroth-pilot-reloaded-Pro-) — WoW guide addon; Lua 5.1, Luacheck, XML, and TOC integrity CI enabled
+- [Book Publish Forge](https://github.com/SpidermanTotro/book-publish-forge) — local desktop writing and publishing tools with automated helper tests
+- [RepoForge Dashboard](https://github.com/SpidermanTotro/repo-manager-ultimate) — non-destructive repository health, CI, and duplicate-review dashboard
+- [Trinity Studio Architecture](https://github.com/SpidermanTotro/Trinity-Studio-Architecture) — tested reference architecture and planning for Trinity tooling
 
 ## Local AI and application experiments
 
 - [OpenCode Local](https://github.com/SpidermanTotro/opencode-local) — local Ollama configuration and coding-model experiments
-- [LisaAI Dating App](https://github.com/SpidermanTotro/LisaAI-DatingApp)
-- [NebulaUltimate](https://github.com/SpidermanTotro/NebulaUltimate) — web and export experiments
+- [NebulaUltimate](https://github.com/SpidermanTotro/NebulaUltimate) — offline development-platform prototype with pluggable local AI skills
 
 ## Upstream-tracking and large inherited codebases
 
@@ -31,4 +30,4 @@ These repositories primarily track or extend external projects. Account-specific
 
 ## Cleanup policy
 
-Empty repositories, malformed-name tests, private repositories, and unresolved duplicates are intentionally omitted from this public index. They should be reviewed before archival or deletion; omission here does not delete or modify them.
+Private repositories, empty repositories, placeholder-only projects, malformed-name tests, and unresolved duplicates are intentionally omitted from this public index. They are reviewed before any archival, deletion, rename, visibility change, or history rewrite; omission here does not modify them.
